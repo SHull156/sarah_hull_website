@@ -1,0 +1,43 @@
+body {
+	background: black;
+	
+}
+
+h1 {
+	font-family: arial;
+	font-size: 30pt;
+	color: blue;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: arial;
+	font-size: 20pt;
+	color: white;
+	text-align: center;
+}
+
+.showYear {
+	font-family: arial;
+	font-size: 20pt;
+	color: white;
+	text-align: left;
+	padding-left: 20px;
+}
+	
+
+.centre{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+p {
+	font-family: arial;
+	font-size: 10pt;
+	color: white;
+	text align: left;
+	padding-left: 20px;
+}
